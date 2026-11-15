@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c515p5u13q0g3"]
+
+[node name="HowToPlayTheGame" type="Node2D" unique_id=732559823]
+
+[node name="CanvasGroup" type="CanvasGroup" parent="." unique_id=733530646]
+position = Vector2(42, 40)
